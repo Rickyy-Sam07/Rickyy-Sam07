@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on AI projects, web development, and Django applications.
 - 📫 How to reach me: sambhranta1123@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and once completed a 1000-piece jigsaw puzzle in a day!
+- ⚡ Fun fact: Still under construction!
