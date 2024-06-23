@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sambhranta Ghosh</h1>
+<h1 align="center">Hi 👋, I'm Sam </h1>
 <h3 align="center">I am a passionate AI-ML developer and also have a keen interest in web development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickyy-sam07&label=Profile%20views&color=0e75b6&style=flat" alt="rickyy-sam07" /> </p>
