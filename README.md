@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **sambhranta1123@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact ** Why do anime fans love Python?
+                  Because it lets them import waifus! 🐍💕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
