@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact ** Why do anime fans love Python?
                   Because it lets them import waifus! 🐍💕**
-  -** __T_A_T_A_K_A_Y_E_  🐦‍🔥**
+-** __T_A_T_A_K_A_Y_E_  🐦‍🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
