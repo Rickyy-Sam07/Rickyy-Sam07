@@ -1,11 +1,11 @@
 <h1 align="center">
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sambhranta+Ghosh" alt="Typing SVG" />
-  </div>
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Web+Development+Enthusiast;Open+Source+Contributor;Always+learning+new+things!" alt="Typing SVG" />
-  </div>
+  Hi 👋, I'm Sambhranta Ghosh
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Web+Development+Enthusiast;Open+Source+Contributor;Always+learning+new+things!" alt="Typing SVG" />
+</h2>
+
 
 <h3 align="center">⚡ Passionate AI-ML developer with a keen interest in web development from India ⚡</h3>
 
