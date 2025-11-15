@@ -77,7 +77,7 @@
 ### 🟩 Minecraft Vibe
 
 <p align="center">
-  <img src="https://media.tenor.com/images/8ec7ce38ee90e84207eca95e66e8f725/tenor.gif" alt="Minecraft Parrot Dance" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkzMnlhYmt6cTNvbWh0OGtudGdncnFydm53ZHY2OXhwb29jdnlnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UiYQWoZgafFJaN9hw/giphy.gif" alt="Minecraft Parrot Dance" />
 </p>
 
 ---
