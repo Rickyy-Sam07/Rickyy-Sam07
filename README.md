@@ -24,7 +24,7 @@
 - 📬 Email: **sambhranta1123@gmail.com**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j5hjjlIH1pPyw/giphy.gif" width="350">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhvOHAzZnpzeGcwd2xqa2ZhbjNmemNnd3k4aTBzNTFrdjBqamwzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7NLlLUaaG9u8/giphy.gif" width="350">
 </p>
 
 ---
