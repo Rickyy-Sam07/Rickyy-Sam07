@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Developer;Building+LLM+%26+RAG+Systems;Web+Developer+%7C+React+%26+Next.js;Cyberpunk+Tech+Enthusiast;Minecraft+Enjoyer+%F0%9F%94%A5"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Developer;Building+LLM+%26+RAG+Systems;React+%7C+Next.js+Developer;Cyberpunk+Tech+Enthusiast;Minecraft+Enjoyer+%F0%9F%94%A5"/>
 </p>
 
 <!-- Cyberpunk Divider -->
@@ -16,15 +16,15 @@
 ---
 
 # 🌌 **About Me**
-- 🔭 Currently building **LLM-powered systems & AI agents**  
-- ⚡ Researching: **Deep Learning, RL, High-performance ML**  
-- 👾 Web stack: **React, Next.js, Node.js**  
-- 🤝 Collaborating on **Gen-AI, AI Tools, Full Stack**  
-- 🎮 *Minecraft player, redstone enjoyer, and shader addict*  
-- 📬 Contact: **sambhranta1123@gmail.com**
+- 🔭 Working on **LLMs, RAG Systems, and AI Engineering**
+- ⚡ Deep Learning • RL • Vector DBs • Distributed ML  
+- 👾 Full-stack: **React, Next.js, Node.js, Express**
+- 🤝 Open to Gen-AI & Web-Dev collaborations  
+- 🎮 Minecraft player, redstone guy, shader lover  
+- 📬 Email: **sambhranta1123@gmail.com**
 
 <p align="center">
-  <img src="https://media.tenor.com/EZl4DkPESbIAAAAC/minecraft-steve.gif" width="350">
+  <img src="https://media.giphy.com/media/j5hjjlIH1pPyw/giphy.gif" width="350">
 </p>
 
 ---
@@ -36,14 +36,26 @@
 
 ---
 
-# ⚡ **GitHub Stats**
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rickyy-sam07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=rickyy-sam07&theme=tokyonight&hide_border=true" />
-</p>
+# ⚡ **GitHub Stats **
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rickyy-sam07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rickyy-sam07&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- LANGUAGES CARD -->
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyy-sam07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+<!-- METRICS GRAPH -->
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickyy-sam07&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rickyy-sam07&color=00d9ff&style=flat-square">
 </p>
 
 ---
@@ -55,31 +67,35 @@
 
 ---
 
-# 🐍 **Snake Animation**
+# 🐍 **Snake Animation **
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🟩 **Minecraft Vibes Section**
+# 🟩 **Minecraft Vibes**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zenfection/minecraft-gif/main/others/creeper.gif" width="120">
+  <!-- Creeper -->
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="120">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zenfection/minecraft-gif/main/others/space.gif" width="900">
+  <!-- Minecraft Ambient Scene -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="900">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zenfection/minecraft-gif/main/players/steve-diamond-sword.gif" width="150">
+  <!-- Steve Running -->
+  <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="180">
 </p>
 
 ---
 
 # ⚡ Quote
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/><br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="85"><br>
   <b>"Build like a coder, grind like a miner." ⛏️⚡</b>
 </p>
 
