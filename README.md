@@ -74,21 +74,10 @@
 
 ---
 
-# 🟩 **Minecraft Vibes**
+### 🟩 Minecraft Vibe
 
 <p align="center">
-  <!-- Creeper -->
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="120">
-</p>
-
-<p align="center">
-  <!-- Minecraft Ambient Scene -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="900">
-</p>
-
-<p align="center">
-  <!-- Steve Running -->
-  <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="180">
+  <img src="https://media.tenor.com/images/8ec7ce38ee90e84207eca95e66e8f725/tenor.gif" alt="Minecraft Parrot Dance" />
 </p>
 
 ---
