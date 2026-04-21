@@ -44,6 +44,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rickyy-sam07&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rickyy-sam07&theme=tokyonight&hide_border=true" />
 </p>
+# ⚡ Leetcode Stats
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rickyy009?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 <!-- LANGUAGES CARD -->
 <p align="center">
