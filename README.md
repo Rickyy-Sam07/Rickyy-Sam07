@@ -68,10 +68,7 @@
 
 # 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rickyy-sam07&theme=matrix&no-frame=true&row=1&column=7"/>
-</p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rickyy-sam07&theme=matrix&no-frame=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 # 🐍 Snake Animation
