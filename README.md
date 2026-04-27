@@ -74,7 +74,7 @@
 # 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sambhranta/sambhranta/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
