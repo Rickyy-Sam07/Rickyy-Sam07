@@ -23,6 +23,7 @@
 - 🤝 Open to Gen-AI & Web-Dev collaborations
 - 🎮 Minecraft player, redstone guy, shader lover
 - 📬 Email: **sambhranta1123@gmail.com**
+- 🔗 Linkedin: **https://www.linkedin.com/in/sambhranta-ghosh-995718277/**
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhvOHAzZnpzeGcwd2xqa2ZhbjNmemNnd3k4aTBzNTFrdjBqamwzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7NLlLUaaG9u8/giphy.gif" width="350">
