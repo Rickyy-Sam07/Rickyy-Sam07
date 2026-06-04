@@ -72,10 +72,18 @@
 --- 
 # 🐍 Snake Animation
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rickyy-Sam07/Rickyy-Sam07/output/github-snake-dark.svg"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rickyy-Sam07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenoguy&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=zenoguy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+</p>
+
+
+<img src="https://media.tenor.com/cgByUMFw0r8AAAAj/minecraft-minecraft-steve.gif" align="right" width="160" />
 ---
 
 ### 🟩 Minecraft Vibe
